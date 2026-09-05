@@ -1,2 +1,9 @@
 # LeanRoute-216
-Supplementary data for The Shape of Mathematical Creativity: Measuring Distinct Mathematical Routes in Formal Proof Generation
+
+A dataset of 216 kernel-verified Lean 4 proofs for 36 propositions.
+
+The workbook contains proof records, parent links, route annotations, human validation judgments, and model evaluation results.
+
+## File
+
+- `LeanRoute_216_supplement.xlsx`
